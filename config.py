@@ -1,0 +1,1 @@
+MONGO_SETTINGS = {'DB' : 'word_freq'}
